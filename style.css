@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: salmon;
+}
+
+.header {
+    width: 80%;
+    margin: auto;
+    background-color: turquoise;
+}
+
+.logo {
+    padding: 1em;
+    text-align: center;
+}
