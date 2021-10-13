@@ -39,4 +39,5 @@ section {
 .formInput {
     padding: .50em;
     margin-top: 1em;
+    width: 35%;
 }
