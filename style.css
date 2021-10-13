@@ -22,3 +22,21 @@ section {
 .sectionTitle {
     margin-bottom: .80em;
 }
+
+.sectionParents {
+    display: flex;
+}
+
+.containerSectionOne {
+    margin-right: 1em;
+    width: 50%;
+}
+
+.containerSection {
+    width: 50%;
+}
+
+.formInput {
+    padding: .50em;
+    margin-top: 1em;
+}
