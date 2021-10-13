@@ -3,11 +3,7 @@
     padding: 0;
 }
 
-.container {
-    background-color: salmon;
-}
-
-.header {
+header {
     width: 80%;
     margin: auto;
     background-color: turquoise;
@@ -16,4 +12,13 @@
 .logo {
     padding: 1em;
     text-align: center;
+}
+
+section {
+    width: 80%;
+    margin: 2em auto;
+}
+
+.sectionTitle {
+    margin-bottom: .80em;
 }
